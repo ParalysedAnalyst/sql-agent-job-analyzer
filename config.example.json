@@ -1,0 +1,12 @@
+{
+  "server": "YOUR_SERVER_NAME",
+  "database": "msdb",
+  "username": "YOUR_USERNAME",
+  "password": "YOUR_PASSWORD",
+  "use_windows_auth": true,
+  "job_ids": [
+    "C5771573-7CF1-4BD7-A6A2-588BDD0E4532",
+    "99BC277A-E1CA-4F40-A4E5-64E90BFA42D5",
+    "2E817EE0-3908-49D6-A4D2-F1949ADD6BC9"
+  ]
+}
